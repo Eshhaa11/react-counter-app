@@ -18,6 +18,7 @@ h2 {
     font-size: 50px;
     position: relative;
     left: 100px;
+    top: 25px;
     color: #00D1B2;
     font-weight: bold;
     text-shadow:  0 4px 6px rgba(4, 4, 4, 0.2);;

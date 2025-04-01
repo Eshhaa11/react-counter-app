@@ -14,7 +14,12 @@ function Counter() {
   return (
     <div>
       <h1>COUNTER APP</h1>
+      
       <h2>{count}</h2>
+
+      <div className="progress-container">
+        <div className="progress-bar" style={{ width: `${progress}%` }}></div>
+      </div>
 
       <div className="button-container">
         <button onClick={increaseCount}>+1</button>

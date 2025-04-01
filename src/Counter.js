@@ -4,14 +4,17 @@ import React, {useState} from "react";
 function counter () {
 
     const [count, setCount] = useState("0")
+
     return (
         <div>
             <h1>COUNTER APP</h1>
             <h2>{count}</h2>
 
-        <button className="button-container">
+        <div className="button-container">
+            <button onClick={}>+1</button>
             
-        </button>
+
+        </div>
         </div>
     )
 }

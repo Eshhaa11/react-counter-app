@@ -21,21 +21,25 @@ h2 {
     text-shadow:  0 4px 6px rgba(4, 4, 4, 0.2);;
 }
 
+.button-container {
+    display: flex;
+    justify-content: space-around; 
+    gap: 30px; 
+    margin-top: 40px;
+}
 
 button {
     background-color: white;
     color: black;
     border-radius: 10px;
     padding: 15px 30px;
-    justify-content: space-between;
-   
 }
 
 button:hover {
-    background: rgba(255, 255, 255, 0.6);
+    background: black;
+    color: white;
   }
 
 button:focus {
     outline: none;
-
 }

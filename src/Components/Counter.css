@@ -25,6 +25,7 @@ h2 {
 
 .progress-container {
     position: relative;
+    top: 300px;
      width: 100%;
      background-color: white;
      height: 30px;

@@ -34,6 +34,7 @@ h2 {
 
 .progress-bar {
     height: 100%;
+    background-color: green;
 }
 
 .button-container {

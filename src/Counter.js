@@ -7,6 +7,7 @@ function counter () {
 
     const increaseCount = () => setCount(count + 1);
     const decreaseCount = () => setCount(count - 1);
+    const resetCount = () => setCount(0);
     
 
     return (

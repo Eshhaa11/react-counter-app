@@ -39,6 +39,16 @@ button {
     padding: 15px 30px;
 }
 
+@keyframes bounce {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0); }
+  }
+  
+  button:active {
+    animation: bounce 0.3s ease;
+  }
+
 button:hover {
     background: black;
     color: white;

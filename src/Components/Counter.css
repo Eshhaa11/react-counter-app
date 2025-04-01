@@ -29,13 +29,14 @@ h2 {
     left: -35px;
     width: 100%;
     background-color: white;
-    border-radius: 5px;
+    border-radius: 15px;
     height: 30px;
 }
 
 .progress-bar {
     height: 100%;
     background-color: green;
+    border-radius: 15px;
     
 }
 

@@ -45,9 +45,9 @@ button {
     100% { transform: translateY(0); }
   }
   
-  button:active {
-    animation: bounce 0.3s ease;
-  }
+button:active {
+    animation: bounce 0.6s ease;
+}
 
 button:hover {
     background: black;

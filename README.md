@@ -31,7 +31,8 @@ A fun and interactive counter application built with React! Simple, intuitive, a
    http://localhost:3000
 
 ## 🎨 Screenshots
-    (image.png)
+![App Screenshot](src/assets/image.png)
+
 
 ## 🤝 Contributing
 Excited to improve this project? Fork the repository, create a feature branch, and open a pull request. Every contribution helps make it better! 🚀✨

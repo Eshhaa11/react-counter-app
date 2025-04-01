@@ -9,6 +9,8 @@ function Counter() {
   const decreaseCount = () => setCount(count - 1);
   const resetCount = () => setCount(0);
 
+  const progress = (count / maxCount) * 100;
+
   return (
     <div>
       <h1>COUNTER APP</h1>

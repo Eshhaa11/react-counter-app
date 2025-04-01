@@ -33,3 +33,8 @@ A fun and interactive counter application built with React! Simple, intuitive, a
 ## 🎨 Screenshots
     (image.png)
 
+## 🤝 Contributing
+Excited to improve this project? Fork the repository, create a feature branch, and open a pull request. Every contribution helps make it better! 🚀✨
+
+Happy coding! 🚀😃
+

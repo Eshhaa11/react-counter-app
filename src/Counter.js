@@ -12,7 +12,8 @@ function counter () {
 
         <div className="button-container">
             <button onClick={}>+1</button>
-            
+            <button onClick={}>-1</button>
+
 
         </div>
         </div>

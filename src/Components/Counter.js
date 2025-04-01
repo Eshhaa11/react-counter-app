@@ -3,6 +3,7 @@ import './Counter.css';
 
 function Counter() {
   const [count, setCount] = useState(0);
+  const maxCount = 100;
 
   const increaseCount = () => setCount(count + 1);
   const decreaseCount = () => setCount(count - 1);

@@ -3,4 +3,5 @@ body {
     font-family: 'Georgia';
     color: white;
     display: flex;
+    justify-content: center;
 }

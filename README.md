@@ -16,10 +16,13 @@ A fun and interactive counter application built with React! Simple, intuitive, a
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
-   ```sh
    git clone https://github.com/your-username/react-counter-app.git
 
 2. Navigate to the project directory:    
    cd react-counter-app
 
 3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm start

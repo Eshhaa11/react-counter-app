@@ -31,7 +31,7 @@ A fun and interactive counter application built with React! Simple, intuitive, a
    http://localhost:3000
 
 ## 🎨 Screenshots
-![App Screenshot](src/assets/image.png)
+![App Screenshot](src/assets/imagee.png)
 
 
 ## 🤝 Contributing

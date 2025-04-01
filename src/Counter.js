@@ -18,7 +18,7 @@ function counter () {
         <div className="button-container">
             <button onClick={increaseCount}>+1</button>
             <button onClick={decreaseCount}>-1</button>
-            <button onClick={}>Reset</button>
+            <button onClick={resetCount}>Reset</button>
 
 
         </div>

@@ -26,3 +26,6 @@ A fun and interactive counter application built with React! Simple, intuitive, a
 
 4. Start the development server:
    npm start
+
+5. Open your browser and visit:
+   

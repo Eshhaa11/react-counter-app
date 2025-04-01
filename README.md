@@ -28,4 +28,6 @@ A fun and interactive counter application built with React! Simple, intuitive, a
    npm start
 
 5. Open your browser and visit:
-   
+   http://localhost:3000
+
+

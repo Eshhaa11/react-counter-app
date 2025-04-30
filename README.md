@@ -1,3 +1,5 @@
+![App Screenshot](src/assets/Counter.jpg)
+
 # 🚀 React Counter App
 
 A fun and interactive counter application built with React! Simple, intuitive, and perfect for beginners learning React state management. 🧑‍💻🔥
